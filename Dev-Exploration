@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T22:05:34.181Z" agent="5.0 (Windows)" etag="0JfrcoVpO8VkmI3FyYAa" compressed="false" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-15T22:06:47.855Z" agent="5.0 (Windows)" etag="qdKs-OmqcF2h-vRE6l4X" compressed="false" version="14.6.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4124" dy="2226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2426" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,8 +245,8 @@
             <mxPoint x="2030" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKYv3hwCE_tfJZkHdobo-1779" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="HKYv3hwCE_tfJZkHdobo-1779" value="&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;eth2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;web3 NFT DeFI&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1910" y="777" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
