@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T15:57:38.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="q2_-SWY-c8XZmh-8JQQR" compressed="false" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T13:46:10.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="3DqpFVRhL_GDl-EfjTM_" compressed="false" version="14.6.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2685" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1611" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,12 +250,33 @@
         <mxCell id="gGR2gaDhzbMvsOHABFQM-1780" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;Blockchain&lt;/b&gt;&lt;/font&gt;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1290" y="745" width="165" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aUp7mr6L_S80ywAMAzMe-1780" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="aUp7mr6L_S80ywAMAzMe-1779" target="1753">
+        <mxCell id="aUp7mr6L_S80ywAMAzMe-1780" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" parent="1" source="aUp7mr6L_S80ywAMAzMe-1779" target="1753" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aUp7mr6L_S80ywAMAzMe-1779" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;JavaScript&lt;/b&gt;&lt;/font&gt;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="aUp7mr6L_S80ywAMAzMe-1779" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;JavaScript&lt;/b&gt;&lt;/font&gt;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1040" y="757" width="165" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="a9u6IPWw8-_dFzhv9RdO-1784" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a9u6IPWw8-_dFzhv9RdO-1779" target="a9u6IPWw8-_dFzhv9RdO-1781">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1207.5" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9u6IPWw8-_dFzhv9RdO-1779" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;HTML CSS&lt;/b&gt;&lt;/font&gt;" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="1020" width="165" height="70" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://css-tricks.com/guides/" id="a9u6IPWw8-_dFzhv9RdO-1780">
+          <mxCell style="group;fontStyle=2" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="1132.5" y="1140" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="a9u6IPWw8-_dFzhv9RdO-1781" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;fillColor=#FFB366;fontSize=20;" vertex="1" parent="a9u6IPWw8-_dFzhv9RdO-1780">
+          <mxGeometry width="150" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="CSS Tricks" link="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/playlists" id="a9u6IPWw8-_dFzhv9RdO-1782">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="a9u6IPWw8-_dFzhv9RdO-1780">
+            <mxGeometry x="20" y="15" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
